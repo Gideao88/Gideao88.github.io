@@ -1,0 +1,25 @@
+{
+  "name": "gideao88.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio para ser utilizado em vagas de Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gideao88/Gideao88.github.io.git"
+  },
+  "keywords": [
+    "portfólio",
+    "frontend",
+    "javascript",
+    "npm"
+  ],
+  "author": "Gideão de Carvalho Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gideao88/Gideao88.github.io/issues"
+  },
+  "homepage": "https://github.com/Gideao88/Gideao88.github.io#readme"
+}
